@@ -16,7 +16,6 @@ O desafio consiste no desenvolvimento de uma aplicação mobile a ser desenvolvi
   - [TypeScript](https://www.typescriptlang.org/)
   - [Styled Components](https://styled-components.com/)
   - [Context API](https://pt-br.reactjs.org/docs/context.html)
-  - Requisições a API
   - [PokéAPI](https://pokeapi.co)
 
 
