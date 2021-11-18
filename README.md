@@ -24,7 +24,6 @@ O desafio consiste no desenvolvimento de uma aplicação mobile a ser desenvolvi
 ## Tecnologias :rocket:
 - [Flutter](https://flutter.dev/)
 - [MobX](https://pub.dev/packages/mobx) 
-- 
 
 ## Níveis :pushpin:
 
