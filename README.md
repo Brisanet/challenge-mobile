@@ -26,7 +26,7 @@ O desafio consiste no desenvolvimento de uma aplicação mobile a ser desenvolvi
 
 ## Habilidades :rocket:
 
-- Requisições da API
+- Requisições a API
 
 ## Níveis :pushpin:
 
