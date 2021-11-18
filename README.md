@@ -24,6 +24,10 @@ O desafio consiste no desenvolvimento de uma aplicação mobile a ser desenvolvi
 - [Flutter](https://flutter.dev/)
 - [MobX](https://pub.dev/packages/mobx) 
 
+## Habilidades :rocket:
+
+- Requisições da API
+
 ## Níveis :pushpin:
 
 - **Básico**
