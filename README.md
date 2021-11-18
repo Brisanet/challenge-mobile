@@ -12,7 +12,7 @@ O desafio consiste no desenvolvimento de uma aplicação mobile a ser desenvolvi
 
 ## Tecnologias :rocket:
 
-  - [ReactJS](https://reactjs.org/)
+  - [React Native](https://reactnative.dev/)
   - [Flutter](https://flutter.dev/)
   - [TypeScript](https://www.typescriptlang.org/)
   - [Styled Components](https://styled-components.com/)
